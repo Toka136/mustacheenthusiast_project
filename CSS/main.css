@@ -109,13 +109,13 @@ header
     }
     .logo .logo-links a 
     {
-        background-color: rgba(35, 172, 165, 0.598);
-        color: white;
+        background-color: white;
+        color: black;
         display: block;
         width: 98%;
         margin-left: 1%;
         padding: 10px;
-        opacity: .7;
+        /* opacity: .7; */
 
     } 
     .logo .logo-links .active 
